@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D6DF-1D01
+
+ Directory of C:\Users\vladimirv\Desktop\MyProject
+
+05/28/2020  11:40 PM    <DIR>          .
+05/28/2020  11:40 PM    <DIR>          ..
+05/28/2020  11:40 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  403,837,337,600 bytes free
